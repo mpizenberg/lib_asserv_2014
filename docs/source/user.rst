@@ -28,4 +28,10 @@ Expliquer chaque méthode publique.
 Réglage de l'asserve
 ====================
 
-Explique les paramètres de réglage de l'asserve.
+Expliquer les paramètres de réglage de l'asserve.
+
+******************************
+Utilisation de la bibliothèque
+******************************
+
+Ici mettre un exemple de l'utilisation dans un autre fichier

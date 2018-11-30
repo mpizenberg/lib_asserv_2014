@@ -16,4 +16,5 @@ Documentation de lib_asserv_2014
    asserv
    odo
    pid
+   code
    docu
